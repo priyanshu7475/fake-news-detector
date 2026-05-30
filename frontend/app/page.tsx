@@ -42,7 +42,7 @@ export default function FakeNewsDetector() {
       setResult(data);
     } catch (err) {
       console.error('[v0] Error calling API:', err);
-      setError('Failed to analyze news. Make sure your API endpoint is running at http://localhost:5000/predict');
+      setError('setError("Failed to analyze news. Please try again in a moment.");');
     } finally {
       setLoading(false);
     }
