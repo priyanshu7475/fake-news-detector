@@ -1,0 +1,34 @@
+i pasted this from bbc article
+1 June marks exactly eight years since Pedro Sánchez became prime minister of Spain, but with his government and Socialist Party besieged by corruption investigations he is more likely to be plotting his political survival than celebrating.
+His musician brother, David, has just gone on trial accused of influence peddling.
+Former Socialist prime minister and close Sánchez ally José Luis Rodriguez Zapatero has been named in an investigation into alleged money laundering.
+And police have raided the Socialist headquarters in Madrid as part of a probe into allegations of a dirty tricks campaign that the opposition has dubbed "the Socialists' Watergate".
+These probes and others have generated a growing clamour by the opposition for Sánchez's resignation and speculation that his government might soon collapse.
+
+and my website returned 94% true
+
+and then posted this fake article
+An Oklahoma girl, Colleen Hufford, was beheaded at Vaughan Foods, her place of employment by a Muslim who had repeatedly been trying to convert coworkers to Islam, once more proving this can be no religion of peace. Alton Alexander Nolen, the Muslim who killed Hufford, was recently dismissed from the business. He was shot by an off-duty policeman during the attack on Hufford and another colleague, however, is in the hospital and is expected to survive. According to TheBlaze, the discovery of Nolen’s religious beliefs, his tries at changing others to Islam, and also the manner in which he killed Hufford have led to authorities probing a lot of deeply into the man’s background, to analyze whether or not he has ties to any radical groups that might be in the area.
+“After conducting interviews with coworkers of Nolen information was obtained that he recently … started trying to convert some of his coworkers to the Muslim religion,” Jeremy Lewis of the Moore police department said. Traci Johnson, the other victim attacked by Nolen is in stable condition and police believe she also would’ve been killed if not for the intervention of the offduty policeman. This is shivery. Generals and leaders from around the world have warned America of radical Islamists infiltrating the country and attacking citizens, and it looks like it’s truly starting to happen. Radical Islam has reared its ugly head within the U.S. and now could be the time to finally declare it the real enemy we tend to face and develop a strategy to put this evil ideology to bed before any more innocent people lose their lives.
+
+it returned 98.6% false
+
+
+Your model is working really well — 94% confidence on a real BBC article and 98.6% on a fake one is exactly what you want to see.
+The app is essentially complete now. A few things to do before you call it done:
+Screenshot the results — you'll need these for your portfolio and README. Capture both the real and fake result cards.
+Note down your training accuracy from when train_model.py ran — that number goes on your resume and README.
+Write the README using the template from Phase 7. Include:
+
+What the project does
+Your accuracy number
+The tech stack
+How to run it locally
+A link to the live demo (once deployed)
+
+Then move to Phase 6 — push to GitHub and deploy. Render for the Flask backend and Vercel for the React frontend. Once it's live you'll have a real project URL to put on your resume.
+Your resume bullet for this project will be something like:
+
+"Built and deployed a full-stack fake news classifier using TF-IDF + Naive Bayes; React frontend + Flask API; trained on ISOT dataset (44k articles) — achieved [X]% accuracy."
+
+What accuracy did your classification report show during training?

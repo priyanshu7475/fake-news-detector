@@ -33,7 +33,7 @@ Paste any news article or headline into the input box. The app sends it to an ML
 
 | Metric | Score |
 |---|---|
-| Accuracy | XX.X% |
+| Accuracy | 0.96% |
 | Dataset | ISOT (21k real + 23k fake articles) |
 | Algorithm | Multinomial Naive Bayes + TF-IDF |
 | Inference | ~11ms per prediction |
