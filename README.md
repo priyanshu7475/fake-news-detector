@@ -2,7 +2,7 @@
 
 A full-stack web application that uses Machine Learning to classify news articles as real or fake.
 
-![TruthChecker](https://fake-news-detector-tau-virid.vercel.app/)
+![TruthChecker](assets/TruthCheker.png)
 
 ## Live Demo
 🔗 [https://fake-news-detector-tau-virid.vercel.app/](https://fake-news-detector-tau-virid.vercel.app/)
